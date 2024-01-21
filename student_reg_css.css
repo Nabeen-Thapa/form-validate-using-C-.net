@@ -1,0 +1,37 @@
+﻿body {
+    background-color:skyblue;
+    padding-left:20px;
+}
+.title
+{
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:10px;
+
+}
+ #idtitle
+{
+    font-size:25px;
+    border:double;
+    padding:10px;
+    font-weight:bold;
+}
+.txtbox {
+    margin: 10px;
+}
+#idgender
+{
+    float:inline-start;
+}
+.dob {
+    width: 50px;
+    margin: 10px;
+
+}
+.address {
+    width: 300px;
+    margin: 10px;
+}
+.gender {
+    display: inline-block;
+}
